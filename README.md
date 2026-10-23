@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/aplus-nexus-logo.jpg" alt="Aplus Nexus logo" width="148" />
 
-  <h1>Aplus-Nexus</h1>
+  <h1>Aplus 云组会</h1>
   <p><strong>科研 × 科技 × 人文</strong><br />
   让技术贴近真实问题，让人文保留在系统里。</p>
 
@@ -14,9 +14,9 @@
 
 <img src="assets/profile-banner.svg" alt="Aplus-Nexus：Research × Technology × Human-centered tools" width="100%" />
 
-## 你好，我是 Aplus-Nexus
+## 你好，这里是 Aplus 云组会
 
-我在 **科研 × 科技** 的交界处做东西：研究多模态与情感计算，也做能真正进入日常工作流的小工具。
+我在 **科研 × 科技 × 人文** 的交界处做东西：研究多模态与情感计算，也做能真正进入日常工作流的小工具。
 
 我喜欢把复杂的问题拆开，把实验做得可复现，把工具做得有分寸。效率很重要，但一套系统如果让人更难理解、更难表达、更难做决定，它就还没有完成。
 
@@ -32,7 +32,7 @@
     <td width="78%" valign="top">
       <h3><a href="https://github.com/MMAC">MMAC Organization</a></h3>
       <p><strong>一个面向多模态情感计算与人机协作的组织入口。</strong></p>
-      <p>这里和下面的个人 repositories 分开：MMAC 是组织品牌与共同研究空间，关注可复现的研究、开放的工具，以及能被更多人继续使用的基础设施。</p>
+      <p>MMAC 是我们旗下组织品牌与共同研究空间，关注可复现的研究、开放的工具，以及能被更多人继续使用的多模态情感分析基础设施。</p>
       <p>
         <a href="https://github.com/MMAC">进入组织主页</a>
         ·
@@ -96,10 +96,9 @@
 
 ## 我相信
 
-> 好的技术不应该把人变成流程的附属品。
+> 好的技术不应该把人变成流程的附属品，而是真正解放人。
 > 它应该让问题更清楚，让选择更自由，也让人与人之间更容易互相理解。
 
-如果你对多模态、智能体、科研工具，或者“如何把一个想法慢慢做成能被使用的东西”感兴趣，欢迎来聊。
 
 <p align="center">
   <a href="https://www.xiaohongshu.com/user/profile/65546f5f0000000002028ac0">在小红书找到 @Aplus云组会</a>
