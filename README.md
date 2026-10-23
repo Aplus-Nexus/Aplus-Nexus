@@ -6,7 +6,7 @@
   让技术贴近真实问题，让人文保留在系统里。</p>
 
   <p>
-    <a href="https://github.com/JulianRyder01?tab=repositories">个人 repositories</a>
+    <a href="https://github.com/Aplus-Nexus?tab=repositories">个人 repositories</a>
     · <a href="https://github.com/MMAC">MMAC 组织</a>
     · <a href="https://www.xiaohongshu.com/user/profile/65546f5f0000000002028ac0">小红书 @Aplus云组会</a>
   </p>
@@ -36,7 +36,7 @@
       <p>
         <a href="https://github.com/MMAC">进入组织主页</a>
         ·
-        <a href="https://github.com/JulianRyder01/mmac">查看 MMAC 研究仓库</a>
+        <a href="https://github.com/Aplus-Nexus/mmac">查看 MMAC 研究仓库</a>
       </p>
     </td>
   </tr>
@@ -51,36 +51,36 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JulianRyder01/Resonance">Resonance</a></h3>
+      <h3><a href="https://github.com/Aplus-Nexus/Resonance">Resonance</a></h3>
       <p>一个可以访问本地文件、谨慎行动的 AI agent，让智能体更接近真实工作。</p>
       <sub>Agent · Local-first · Computer use</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JulianRyder01/EMinder">EMinder</a></h3>
+      <h3><a href="https://github.com/Aplus-Nexus/EMinder">EMinder</a></h3>
       <p>把训练监控、日常复盘与邮件提醒串起来的自动化工具。</p>
       <sub>Automation · Research workflow · Python</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JulianRyder01/LifeOL">LifeOL</a></h3>
+      <h3><a href="https://github.com/Aplus-Nexus/LifeOL">LifeOL</a></h3>
       <p>把生活过成游戏：记录事件、积攒成长值，也给每一天留下回声。</p>
       <sub>Human-centered · Reflection · TypeScript</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JulianRyder01/GPT-Continuum">GPT Continuum</a></h3>
+      <h3><a href="https://github.com/Aplus-Nexus/GPT-Continuum">GPT Continuum</a></h3>
       <p>一个本地 ChatGPT 插件，让被打断的长任务有机会继续向前。</p>
       <sub>ChatGPT Plugin · MCP · Small tools</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JulianRyder01/Aplus-AI-Department-Entrance-Accessment">Aplus AI Department</a></h3>
+      <h3><a href="https://github.com/Aplus-Nexus/Aplus-AI-Department-Entrance-Accessment">Aplus AI Department</a></h3>
       <p>为团队新成员准备的 AI 方向考核与实践入口。</p>
       <sub>Community · Practice · AI</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JulianRyder01/julianryder01.github.io">Personal site</a></h3>
+      <h3><a href="https://github.com/Aplus-Nexus/julianryder01.github.io">Personal site</a></h3>
       <p>个人网站与长期记录的入口。</p>
       <sub>Web · Notes · Aplus-Nexus</sub>
     </td>
@@ -103,7 +103,7 @@
 <p align="center">
   <a href="https://www.xiaohongshu.com/user/profile/65546f5f0000000002028ac0">在小红书找到 @Aplus云组会</a>
   ·
-  <a href="https://github.com/JulianRyder01">Aplus-Nexus</a>
+  <a href="https://github.com/Aplus-Nexus">Aplus-Nexus</a>
   ·
-  <a href="https://github.com/JulianRyder01">GitHub profile</a>
+  <a href="https://github.com/Aplus-Nexus">GitHub profile</a>
 </p>
