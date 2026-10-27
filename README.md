@@ -44,6 +44,29 @@
 
 > 组织主页目前作为 MMAC 的公共入口；研究仓库与实验材料会逐步归拢到这个空间。
 
+## 精选工具 · KeyPro
+
+<table>
+  <tr>
+    <td width="22%" valign="top" align="center">
+      <a href="https://github.com/Aplus-Nexus/KeyPro">
+        <img src="https://raw.githubusercontent.com/Aplus-Nexus/KeyPro/main/assets/keypro-logo.png" alt="KeyPro logo" width="112" />
+      </a>
+    </td>
+    <td width="78%" valign="top">
+      <h3><a href="https://github.com/Aplus-Nexus/KeyPro">KeyPro</a></h3>
+      <p><strong>把重复操作编排成清晰、可预览、可重复运行的跨平台工作流。</strong></p>
+      <p>面向 macOS 与 Windows 的桌面自动化工具，支持循环、延迟、文字输入、鼠标动作、OCR 尝试和组合键。</p>
+      <p>
+        <a href="https://github.com/Aplus-Nexus/KeyPro">查看项目</a>
+        ·
+        <a href="https://github.com/Aplus-Nexus/KeyPro/releases/latest">下载 0.1.0</a>
+      </p>
+      <sub>Desktop automation · Tkinter · macOS · Windows</sub>
+    </td>
+  </tr>
+</table>
+
 ## 个人实验室 · Personal repositories
 
 这些项目属于我的个人工作台，和 MMAC 组织空间保持清晰区分。
