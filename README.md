@@ -44,6 +44,31 @@
 
 > 组织主页目前作为 MMAC 的公共入口；研究仓库与实验材料会逐步归拢到这个空间。
 
+## 精选工具 · 上班墨鱼 WeFish
+
+<table>
+  <tr>
+    <td width="22%" valign="top" align="center">
+      <a href="https://github.com/Aplus-Nexus/WeFish">
+        <img src="assets/wefish-logo.svg" alt="上班墨鱼 WeFish Logo" width="112" />
+      </a>
+    </td>
+    <td width="78%" valign="top">
+      <h3><a href="https://github.com/Aplus-Nexus/WeFish">上班墨鱼 · WeFish</a></h3>
+      <p><strong>把微信读书藏进菜单栏、系统托盘和一个低干扰阅读舱。</strong></p>
+      <p>WeFish 是一款支持 macOS 与 Windows 的桌面阅读器：同步书架、章节、阅读位置、阅读时长、摘录、书友想法与会员权益摘要；支持分页阅读、章节快速定位、预加载，以及像歌词一样的菜单栏逐行阅读。</p>
+      <p>
+        <a href="https://github.com/Aplus-Nexus/WeFish">查看项目</a>
+        ·
+        <a href="https://github.com/Aplus-Nexus/WeFish/releases/tag/v1.0.0">下载 v1.0.0</a>
+        ·
+        <a href="https://aplus-nexus.github.io/WeFish/">项目介绍页</a>
+      </p>
+      <sub>桌面阅读器 · macOS · Windows · 微信读书 · 菜单栏逐行阅读</sub>
+    </td>
+  </tr>
+</table>
+
 ## 精选工具 · KeyPro
 
 <table>
